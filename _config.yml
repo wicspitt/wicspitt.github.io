@@ -17,7 +17,9 @@ social:
   - title: Instagram
     url: https://www.instagram.com/wics_pitt/?hl=en
   - title: Discord
-    url: https://discord.com/invite/ZwYFaeY7
+    url: https://discord.gg/FcwGvbzHMn
+  - title: Mailing List
+    url: https://forms.gle/CZnRfMAvijNXSHLH6
 
 # Build settings
 markdown: kramdown
