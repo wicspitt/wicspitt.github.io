@@ -275,14 +275,14 @@ a:focus {
         padding-top: 200px;
     }
 
-    .download-section {
+    .officer-section {
         padding: 100px 0;
     }
 
-    #map {
+/*     #map {
         height: 400px;
         margin-top: 250px;
-    }
+    } */
 }
 
 .btn {
