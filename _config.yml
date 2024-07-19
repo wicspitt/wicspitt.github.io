@@ -1,5 +1,5 @@
 # Site settings
-title: Women in Computer Science at Pitt!
+title: ##Women in Computer Science at Pitt!
 email: wics.pitt@outlook.com
 url: https://wicspitt.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -10,20 +10,14 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: wics.pitt@outlook.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: Instagram
+    url: https://www.instagram.com/wics_pitt/?hl=en
+  - title: Discord
+    url: https://discord.com/invite/ZwYFaeY7
 
 # Build settings
 markdown: kramdown
