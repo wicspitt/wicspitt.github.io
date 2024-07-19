@@ -14,11 +14,11 @@ footer: wics.pitt@outlook.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Instagram
+  - title: instagram
     url: https://www.instagram.com/wics_pitt/?hl=en
-  - title: Discord
+  - title: discord
     url: https://discord.gg/FcwGvbzHMn
-  - title: Mailing List
+  - title: mailing List
     url: https://forms.gle/CZnRfMAvijNXSHLH6
 
 # Build settings
